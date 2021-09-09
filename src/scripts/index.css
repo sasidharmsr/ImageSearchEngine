@@ -1,0 +1,96 @@
+
+  .bg-container{
+    min-height: 100vh;
+    background-color:#d5d6d2;
+  }
+ .main-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+ }
+  .input {
+    font-size: 18px;
+    border-style: solid;
+    border-width: 1px;
+    display: "block";
+    position: "relative";
+    height: 56px;
+    padding-left: 15px;
+    border-style: "solid";
+    flex-shrink: 1;
+    border-color: #d5cdcd;
+    border-radius: 3px;
+    padding: 10px;
+    width: 80%;
+}
+ .formdiv{
+   margin-top: 40px;
+   width: 100%;
+ }
+ .form{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+ }
+ .search{
+   color:white;
+   width: 15px;
+   height: 15px;
+ }
+ .LoadMorebtn{
+    width: 130px;
+    height: 40px;
+    font-size: 14px;
+    background-color: black;
+    margin-bottom: 5px;
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+  
+ }
+ .btndiv{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+ }
+  .btn{
+    border-style: "solid";
+    background-color: black;
+    display: "flex";
+    flex-direction: "column";
+    justify-content: "center";
+    flex-shrink: 1;
+    border-width: 0px;
+    width: 103px;
+    height: 50px;
+    margin-left: 16px;
+    border-radius: 3px;
+    align-items: "center";
+  }
+  .title {
+    font-size: 22px;
+    margin-bottom: 0px;
+  }
+  .para {
+    font-size: 16px;
+    margin-top: 0px;
+  }
+.countdiv{
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  margin-left: 9%;
+}
+  .imgdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+  
+  }
+  

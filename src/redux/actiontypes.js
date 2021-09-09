@@ -1,0 +1,4 @@
+export const IMAGES_REQUEST = "IMAGES_REQUEST";
+export const IMAGES_SUCCESS = "IMAGES_SUCCESS";
+export const IMAGES_FAILURE = "IMAGES_FAILURE";
+export const RESET="IMAGES_RESET";
